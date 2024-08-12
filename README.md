@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋 I'm Bidhan
+Data Science Graduate from Technical University of Dortmund
+- 🔭 I’m currently working on Reinforcement Learning
+
 
 <!--
 **bidhan017/bidhan017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
