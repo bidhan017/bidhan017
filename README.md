@@ -2,7 +2,7 @@
 
 **Data Science | AI Enthusiast | Problem Solver**
 
-Welcome to my GitHub! I’m a results-driven Data Science professional with a Master’s degree from the Technical University of Dortmund and over 3 years of experience in machine learning, data analytics, and scalable ETL pipelines. My expertise spans PySpark, Azure Databricks, and GCP, and I have delivered innovations in anomaly detection, time-series modeling, and Generative AI. I am passionate about building intelligent multi-agent systems and empowering organizations with actionable data insights.
+Welcome to my GitHub! I’m a Data Science professional with a Master’s degree from the Technical University of Dortmund and over 3 years of experience in machine learning, data analytics, and scalable data pipelines. My expertise spans PySpark, Azure Databricks, and GCP, and I have delivered innovations in anomaly detection, time-series modeling, and Generative AI. I am passionate about building intelligent multi-agent systems and empowering organizations with actionable data insights.
 
 ## About Me
 
